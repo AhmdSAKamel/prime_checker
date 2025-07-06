@@ -1,0 +1,20 @@
+# Ignore build artifacts
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.ipch
+
+# Ignore Visual Studio folders
+.vs/
+Debug/
+Release/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore other system files
+*.log
+*.db
+*.VC.db
