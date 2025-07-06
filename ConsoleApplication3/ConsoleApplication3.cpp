@@ -48,7 +48,6 @@ void Print(enCheckPrimeNumber PrimeNumber)
 }
 
 
-
 int main()
 {
 	Print(CheckPrimeNumber(ReadNum("Please enter a Number: ")));
